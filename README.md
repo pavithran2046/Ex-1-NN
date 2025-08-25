@@ -85,28 +85,34 @@ print("y_test:\n", y_test)
 ## OUTPUT:
 
 ### Reading Dataset:
-![alt text](output/read.png)
+<img width="788" height="298" alt="image" src="https://github.com/user-attachments/assets/efe88967-4584-4ba0-8f76-bb48c80d5fad" />
 
 ### Missing values:
-![alt text](output/missing.png)
+<img width="276" height="374" alt="image" src="https://github.com/user-attachments/assets/dc110856-0413-4ae6-a4f1-02d5ad0108f1" />
+
 
 ### Duplicate values:
-![alt text](output/duplicate.png)
+<img width="419" height="300" alt="image" src="https://github.com/user-attachments/assets/90fd04f3-1f8a-4d05-8b5b-4cbd04e919cc" />
 
 ### Outlier Detection:
-![alt text](output/outlier.png)
+<img width="815" height="295" alt="image" src="https://github.com/user-attachments/assets/e6d67340-c0bd-4bd6-8f39-d670c5f8cbe7" />
+
 
 ### Remove UUnnecessary Columns:
-![alt text](output/remove.png)
+<img width="673" height="300" alt="image" src="https://github.com/user-attachments/assets/a6f3fc34-8f44-4520-ad22-306ba0c4a4b8" />
+
 
 ### Normalize:
-![alt text](output/scale.png)
+<img width="689" height="290" alt="image" src="https://github.com/user-attachments/assets/1e229e57-80ac-49c1-a978-b492d9ffbde7" />
+
 
 ### X and Y Columns:
-![alt text](output/xandy.png)
+<img width="735" height="285" alt="image" src="https://github.com/user-attachments/assets/2525785d-b08d-47ce-80e3-e3b3f113dfd8" />
+
 
 ### Xtrain and ytrain:
-![alt text](<output/xtestand ytest.png>)
+<img width="716" height="711" alt="image" src="https://github.com/user-attachments/assets/f058a65a-fe0d-41ca-bf5e-9ed2c1d1f5ba" />
+
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
